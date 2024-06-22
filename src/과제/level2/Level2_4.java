@@ -1,4 +1,4 @@
-package level2;
+package 과제.level2;
 
 import java.util.Random;
 import java.util.Scanner;
