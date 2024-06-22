@@ -67,7 +67,7 @@ public class Level2_4 {
             if(com.equals("보")){
                 System.out.println("comran) 보");
                 System.out.println("result) 무승부");
-                return;
+
             }
 
         }
