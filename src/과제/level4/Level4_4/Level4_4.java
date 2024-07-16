@@ -7,5 +7,6 @@ public class Level4_4 {
 
         System.out.println(제품1.toString());
         System.out.println(제품2.toString());
+        //
     }
 }
